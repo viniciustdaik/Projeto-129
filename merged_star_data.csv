@@ -1,1 +1,9 @@
-,name,distance,mass,radius
+,id,Star_name,Distance,Mass,Radius,name,distance,mass,radius,luminosity
+0,0,OGLE-TR-109,8450.0,b,<14,Sun,0.000015813,1,1,1
+1,1,RU Lupi,400.0,b,≥27,Sirius,0008.6,2.1,1.71,25.4
+2,2,CM Draconis,48.0,b,64,Canopus,0310,15,71,"13,500"
+3,3,BD+20°2457,652.0,b,21.42,Alpha Centauri,0004.4,1.1,1.2,2
+4,4,HD 3346,655.58,c,60,Arcturus,0037,1.1,26,170
+5,5,HD 104304,42.1,b,17.2,Vega,0025,2.2,2.7,50
+6,6,HD 154857,220.0,c,18.4,Capella,0043,2.6,12,150
+7,7,Gliese 22 B,326.0,b,16,Rigel,0860,23,78.9,"120,000"
